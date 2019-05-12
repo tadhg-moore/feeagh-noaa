@@ -125,7 +125,7 @@ for(k in 1:10000){
                                       vgrd10m = vgrd10m$value, 
                                       ugrd10m = ugrd10m$value, 
                                       spfh2m = spfh2m$value, 
-                                      pressfc = pressfc$value
+                                      pressfc = pressfc$value,
                                       tcdcclm =tcdcclm$value)
           
           write.csv(forecast_noaa,paste(directory,run_date,model_list[m],'.csv',sep=''),row.names = FALSE)
