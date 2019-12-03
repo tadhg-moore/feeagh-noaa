@@ -11,7 +11,7 @@ library(stringr)
 lake_lat_n = 53.9
 lake_lon_w = 9.5
 
-directory = "C:\\Users\\mooret\\OneDrive - Dundalk Institute of Technology\\PROGNOS_offline\\CareyVT\\feeagh-NOAA/"
+directory = "C:\\Users\\mooret\\Desktop\\flare_feeagh\\feeagh_data\\noaa_data/" #"C:\\Users\\mooret\\OneDrive - Dundalk Institute of Technology\\PROGNOS_offline\\CareyVT\\feeagh-NOAA/"
 
 #####
 
